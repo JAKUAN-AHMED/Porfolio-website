@@ -220,6 +220,10 @@ footer{
     width: 50%;
 
 }
+.social-links a
+{
+    margin-right: 20px;
+}
 /* footer form */
 .contact input[type="text"],.contact input[type="email"],textarea
 {
