@@ -24,6 +24,15 @@ body
     padding: 10px 20px;
 
 }
+.btn-1{
+    border-radius: 5px;
+    background: #FD6E0A;
+    border: 0;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    /* padding: 10px 20px; */
+}
 .section-title
 {
     color:#181818;
@@ -68,6 +77,11 @@ nav a{
     color:#474747;
     font-size: 20px;
 }
+nav li:hover
+{
+    background-color: gold;
+    background-size: 60px;
+}
 /* header related styles */
 .header
 {
@@ -78,6 +92,7 @@ nav a{
     background-size: auto, 110px;
     /* background-size: 70px; */
     /* background-color: none; */
+   
     
 }
 /* banner styles */
